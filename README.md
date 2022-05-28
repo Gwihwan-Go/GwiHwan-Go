@@ -6,7 +6,7 @@
 <p>
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" /> 
 	<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-white?style=flat-square&logo=pytorch&logoColor=orrange" />
-	<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C&logoColor=black" />
+	<img alt="C++" src="https://img.shields.io/badge/-C language-00599C?style=flat-square&logo=C&logoColor=black" />
   	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
