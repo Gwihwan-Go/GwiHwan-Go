@@ -9,8 +9,9 @@
 	<img alt="C++" src="https://img.shields.io/badge/-C language-00599C?style=flat-square&logo=C&logoColor=black" />
   	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />
+  	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />#33333D
 	<img alt="Chinese" src="https://img.shields.io/badge/-Chinese-990000?style=flat-square&logo=Archive of Our Own&logoColor=white" />
+	<img alt="Korean" src="https://img.shields.io/badge/-Korean-003459?style=flat-square&logo=Koa&logoColor=red" />
 
 </p>
 <h3>Things I plan to learn with</h3>
