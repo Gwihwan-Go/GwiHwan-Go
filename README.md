@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gwihwan, AI Engineer from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="13"/> <b>Seoul, South of Korea</b>, currently attening on <img src="https://drive.google.com/uc?id=12A5YeWb2VUB8CH_TgOOYKtNVIDN3coqL\"/> <b>Sungkyunkwan University </b>. </p>
+<p>Welcome to my page! </br> I'm Gwihwan, AI Engineer from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="20"/> <b>Seoul, South of Korea</b>, currently attening on <img src=\"https://drive.google.com/uc?id=1qMf4o07rJx9YLfxh1Ol-jKgJJueIUe4j\" width = 100/> <b>Sungkyunkwan University </b>. </p>
 <h3>Things I code with</h3>
 <p>
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" /> 
