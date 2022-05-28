@@ -9,15 +9,19 @@
 	<img alt="C++" src="https://img.shields.io/badge/-C language-00599C?style=flat-square&logo=C&logoColor=black" />
   	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />#33333D
+  	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />
 	<img alt="Chinese" src="https://img.shields.io/badge/-Chinese-990000?style=flat-square&logo=Archive of Our Own&logoColor=white" />
 	<img alt="Korean" src="https://img.shields.io/badge/-Korean-003459?style=flat-square&logo=Koa&logoColor=red" />
 
 </p>
 <h3>Things I plan to learn with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />
+	<img alt="Linux" src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Etsy&logoColor=FCC624" />
+	<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
+ 	<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  	<img alt="Youtube" src="https://img.shields.io/badge/-YouTube-white?style=flat-square&logo=YouTube&logoColor=FF0000" /> 
+	
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -40,7 +44,7 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+ 
 </p>
 <h3>Projects that I'm mainly working on</h3>
 <table>
