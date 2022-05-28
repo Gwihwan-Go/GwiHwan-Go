@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gwihwan, AI Engineer from <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-korea-korea-justicon-lineal-color-justicon.png" width="13"/> <b>Seoul, South of Korea</b>, currently attening on <img src="https://drive.google.com/uc?id=12A5YeWb2VUB8CH_TgOOYKtNVIDN3coqL\" width="13"/> <b>Sungkyunkwan University </b>. </p>
+<p>Welcome to my page! </br> I'm Gwihwan, AI Engineer from <img src=="https://img.icons8.com/color/48/000000/south-korea.png" width="13"/> <b>Seoul, South of Korea</b>, currently attening on <img src="https://drive.google.com/uc?id=12A5YeWb2VUB8CH_TgOOYKtNVIDN3coqL\"/> <b>Sungkyunkwan University </b>. </p>
 <h3>Things I code with</h3>
 <p>
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" /> 
 	<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-white?style=flat-square&logo=pytorch&logoColor=orrange" />
-	<img alt="C++" src="https://img.shields.io/badge/-C language-00599C?style=flat-square&logo=C&logoColor=black" />
+	<img alt="C" src="https://img.shields.io/badge/-C language-00599C?style=flat-square&logo=C&logoColor=black" />
   	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />
@@ -14,45 +14,21 @@
 	<img alt="Korean" src="https://img.shields.io/badge/-Korean-003459?style=flat-square&logo=Koa&logoColor=red" />
 
 </p>
-<h3>Things I plan to learn with</h3>
+<h3>I plan to learn with</h3>
 <p>
 	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />
-	<img alt="Linux" src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Etsy&logoColor=FCC624" />
+	<img alt="Linux" src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux&logoColor=FCC624" />
 	<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
  	<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   	<img alt="Youtube" src="https://img.shields.io/badge/-YouTube-white?style=flat-square&logo=YouTube&logoColor=FF0000" /> 
-	
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
- 
 </p>
-<h3>Projects that I'm mainly working on</h3>
+<h3>Books that I'm currently reading</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
+      <td><b<img src=="https://img.icons8.com/cotton/64/000000/book.png" width="13"/> Title </b></td>
+      <td><b<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-author-literature-flaticons-lineal-color-flat-icons.png"/> Stars</b></td>
+      <td><b<img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Book-Report-report-others-pike-picture.png"/> Book Report</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
     </tr>
@@ -81,6 +57,8 @@
     </tr>
   </tbody>
 </table>
+
+<!--
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
