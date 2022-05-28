@@ -1,12 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gwihwan, AI Engineer from <img src=="https://img.icons8.com/color/48/000000/south-korea.png" width="13"/> <b>Seoul, South of Korea</b>, currently attening on <img src="https://drive.google.com/uc?id=12A5YeWb2VUB8CH_TgOOYKtNVIDN3coqL\"/> <b>Sungkyunkwan University </b>. </p>
+<p>Welcome to my page! </br> I'm Gwihwan, AI Engineer from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="13"/> <b>Seoul, South of Korea</b>, currently attening on <img src="https://drive.google.com/uc?id=12A5YeWb2VUB8CH_TgOOYKtNVIDN3coqL\"/> <b>Sungkyunkwan University </b>. </p>
 <h3>Things I code with</h3>
 <p>
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" /> 
 	<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-white?style=flat-square&logo=pytorch&logoColor=orrange" />
 	<img alt="C" src="https://img.shields.io/badge/-C language-00599C?style=flat-square&logo=C&logoColor=black" />
+	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
   	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />
