@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gwihwan Go, a AI Engineer<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" width="20"/>, a researcher<img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Research-neural-others-pike-picture.png" width="20"/>, and a reader<img src="https://img.icons8.com/fluency/48/000000/book-shelf.png" width="20"/>. I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" align=\"middle\" width="20"/> <b>Seoul, South of Korea</b>, currently attening on <img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" align=\"middle\" width="160"/> <b>Sungkyunkwan University </b>. </p>
+<p>Welcome to my page! </br> I'm Gwihwan Go, a AI Engineer <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" width="20"/>, a researcher <img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Research-neural-others-pike-picture.png" width="20"/>, and a reader <img src="https://img.icons8.com/fluency/48/000000/book-shelf.png" width="20"/>. I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" align=\"middle\" width="20"/> <b>Seoul, South of Korea</b>, currently attening on <img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" align=\"middle\" width="160"/> <b>Sungkyunkwan University </b>. </p>
 <h3>Things I code with</h3>
 <p>
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" /> 
@@ -28,33 +28,15 @@
   <thead align="center">
     <tr border: none;>
       <td><b<img src=="https://img.icons8.com/cotton/64/000000/book.png" width="13"/> Title </b></td>
-      <td><b<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-author-literature-flaticons-lineal-color-flat-icons.png"/> Stars</b></td>
+      <td><b>📬 Author</b></td>
       <td><b<img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Book-Report-report-others-pike-picture.png"/> Book Report</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+	    <td></td>
+	    <td></td>
+	    <td></td>
     </tr>
   </tbody>
 </table>
