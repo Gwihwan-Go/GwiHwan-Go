@@ -15,6 +15,9 @@
 	<img alt="Korean" src="https://img.shields.io/badge/-Korean-003459?style=flat-square&logo=Koa&logoColor=red" />
 
 </p>
+
+-------------------------------------------------------------------------------------
+
 <h3>I plan to learn with</h3>
 <p>
 	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />
