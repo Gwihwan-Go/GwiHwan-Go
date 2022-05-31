@@ -1,8 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gwihwan Go, a AI Engineer <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" width="20"/>, a researcher <img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Research-neural-others-pike-picture.png" width="20"/>, and a reader <img src="https://img.icons8.com/fluency/48/000000/book-shelf.png" width="20"/>. 
-I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" align=\"middle\" width="20"/> <b>Seoul, South of Korea</b>, currently attening on <img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" align=\"middle\" width="160"/> <b>Sungkyunkwan University </b>. </p>
+<p>Welcome to my page! </br> I'm Gwihwan Go, a AI engineer <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" width="20"/>, a researcher <img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Research-neural-others-pike-picture.png" width="20"/>, and a reader <img src="https://img.icons8.com/fluency/48/000000/book-shelf.png" width="20"/>. 
+
+I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="20"/> <b>Seoul, South of Korea</b>, currently attening on <img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" width="160"/> <b>Sungkyunkwan University </b>. </p>
 <h3>Things I code with</h3>
 <p>
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" /> 
@@ -17,7 +18,7 @@ I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" alig
 
 </p>
 
-<h3>I plan to learn with</h3>
+<h3>Things I plan to learn</h3>
 <p>
 	<img alt="English" src="https://img.shields.io/badge/-English-white?style=flat-square&logo=Etsy&logoColor=blue" />
 	<img alt="Linux" src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux&logoColor=FCC624" />
@@ -25,7 +26,10 @@ I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" alig
  	<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   	<img alt="Youtube" src="https://img.shields.io/badge/-YouTube-white?style=flat-square&logo=YouTube&logoColor=FF0000" /> 
 </p>
--------------------------------------------------------------------------------------
+
+- - -
+- - -
+
 <h3>Books that I'm currently reading</h3>
 <table>
   <thead align="center">
