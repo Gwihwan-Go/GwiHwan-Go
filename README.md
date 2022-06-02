@@ -53,9 +53,9 @@ Section 3
   </thead>
   <tbody>
     <tr>
-	    <td></td>
-	    <td></td>
-	    <td></td>
+	    <td>How to Win Friends and Influence People</td>
+	    <td>Dale Carnegie</td>
+	    <td>On writing</td>
     </tr>
   </tbody>
 </table>
