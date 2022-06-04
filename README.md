@@ -57,6 +57,11 @@ Section 3
 	    <td>Dale Carnegie</td>
 	    <td>On writing</td>
     </tr>
+    <tr>
+	    <td>Factfulness</td>
+	    <td>Hans Rosling</td>
+	    <td>On writing</td>
+    </tr>
   </tbody>
 </table>
 <!-- 
