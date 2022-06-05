@@ -104,6 +104,16 @@ Section 5
 <!-- 
 Section 5
 --><!-- 
+Section 6
+-->
+
+Experience
+
+💻 AI Intern Researcher in Data Science and Artificial Intelligence Lab (DSAIL)
+<!-- 
+Section 6
+-->
+<!-- 
 Footer
 -->
 
