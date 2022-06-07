@@ -48,19 +48,24 @@ Section 3
     <tr border: none;>
       <td><b<img src=="https://img.icons8.com/cotton/64/000000/book.png" width="13"/> Title </b></td>
       <td><b>📬 Author</b></td>
-      <td><b<img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Book-Report-report-others-pike-picture.png"/> Book Report</b></td>
+      <td><b<img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Book-Report-report-others-pike-picture.png"/> 🔥Purpose🔥</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
 	    <td>How to Win Friends and Influence People</td>
 	    <td>Dale Carnegie</td>
-	    <td>On writing</td>
+	    <td>To be better</td>
     </tr>
     <tr>
 	    <td>Factfulness</td>
 	    <td>Hans Rosling</td>
-	    <td>On writing</td>
+	    <td>English Studying</td>
+    </tr>
+    <tr>
+	    <td>Sentence Embeddings Using Korean Corpora</td>
+	    <td>Kichang Lee from Naver Corp.</td>
+	    <td>For personal project</td>
     </tr>
   </tbody>
 </table>
