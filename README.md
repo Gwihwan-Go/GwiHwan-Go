@@ -84,27 +84,11 @@ Section 4
 <b>Key words : </b>Neuron Coverage, testing criteria, white-box testing
 Experience
 
-<h3>I'm currently working with</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b<img src=="https://img.icons8.com/cotton/64/000000/book.png" width="13"/> Title </b></td>
-      <td><b<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-author-literature-flaticons-lineal-color-flat-icons.png"/> Stars</b></td>
-      <td><b<img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Book-Report-report-others-pike-picture.png"/> Forks </b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/GwiHwan-Go/DLFuzz"><b>DL Fuzz : An Efficient Fuzzing Testing Framework of Deep Learning Systems</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://blog.naver.com/ie1914/222785785205"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Is Neuron Coverage effective? </b></a><br/><i>A core question of white-box DNN testing</i></li>
+  <li><a href="https://blog.naver.com/ie1914/222791290172"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Automate your web project with python</b></a><br/></li>
+</ul>
 <!-- 
 Section 4
 -->
