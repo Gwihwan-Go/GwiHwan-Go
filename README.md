@@ -42,39 +42,6 @@ Section 2
 <!-- 
 Section 3
 -->
-<h3>Books that I'm currently reading</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b<img src=="https://img.icons8.com/cotton/64/000000/book.png" width="13"/> Title </b></td>
-      <td><b>📬 Author</b></td>
-      <td><b<img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Book-Report-report-others-pike-picture.png"/> 🔥Purpose🔥</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td>How to Win Friends and Influence People</td>
-	    <td>Dale Carnegie</td>
-	    <td>To be better</td>
-    </tr>
-    <tr>
-	    <td>Factfulness</td>
-	    <td>Hans Rosling</td>
-	    <td>English Studying</td>
-    </tr>
-    <tr>
-	    <td>Sentence Embeddings Using Korean Corpora</td>
-	    <td>Kichang Lee from Naver Corp.</td>
-	    <td>For personal project</td>
-    </tr>
-  </tbody>
-</table>
-<!-- 
-Section 3
--->
-<!-- 
-Section 4
--->
 <h3>I'm interested with</h3>
 
 <h5><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> <b>White-box Testing with DNNs</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> </h5>
@@ -83,7 +50,12 @@ Section 4
 
 <b>Key words : </b>Neuron Coverage, testing criteria, white-box testing
 Experience
-
+<!-- 
+Section 3
+-->
+<!-- 
+Section 4
+-->
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://blog.naver.com/ie1914/222785785205"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Is Neuron Coverage effective? </b></a><br/><i>A core question of white-box DNN testing</i></li>
