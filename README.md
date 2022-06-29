@@ -44,12 +44,11 @@ Section 3
 -->
 <h3>I'm interested with</h3>
 
-<h5><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> <b>White-box Testing with DNNs</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> </h5>
+<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> <b>White-Box DNN Testing</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> </h4>
 
 <p><b>Definition : </b>Making a DNNs robust with as much as information in DNNs, i.e. neuron, weight..</p>
 
-<b>Key words : </b>Neuron Coverage, testing criteria, white-box testing
-Experience
+<b>Key words : </b>Neuron Coverage, testing criteria, white-box testing, coverage-guided testing(CGT)
 <!-- 
 Section 3
 -->
