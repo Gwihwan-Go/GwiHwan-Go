@@ -55,11 +55,12 @@ Section 3
 <!-- 
 Section 4
 -->
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://blog.naver.com/ie1914/222785785205"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Is Neuron Coverage effective? </b></a><br/><i>A core question of white-box DNN testing</i></li>
-  <li><a href="https://blog.naver.com/ie1914/222791290172"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Automate your web project with python</b></a><br/></li>
-</ul>
+[2022/6/30 - Is Neuron Coverage Effective? (Final) - Interactions do matter.](https://blog.naver.com/ie1914/222794767874) <br>
+[2022/6/27 - 웹 업무 자동화하기 Selenium_Python (2) url접속, 로그인](https://blog.naver.com/ie1914/222791290172) <br>
+[2022/6/27 - 웹 업무 자동화하기 Selenium_Python (1) 해결해야할 문제 정의](https://blog.naver.com/ie1914/222791220400) <br>
+[2022/6/27 - 내가 블로그를 하는 이유.](https://blog.naver.com/ie1914/222791129440) <br>
+[2022/6/23 - Is Neuron Coverage effective?(2) The recent study about Neuran Coverage](https://blog.naver.com/ie1914/222786136149) <br>
+[2022/6/23 - Is Neuron Coverage effective?(1) Correlations btw DNN Coverage Criteria & model quality](https://blog.naver.com/ie1914/222785785205) <br>
 <!-- 
 Section 4
 -->
