@@ -42,18 +42,13 @@ Section 2
 <!-- 
 Section 3
 -->
-<h3>I'm interested with</h3>
+<h3>I'm interested with <br>White Box DNN Testing(CGT)</br></h3>
 
-<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><b>White-Box DNN Testing</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /></h1>
-
-<p><b>Definition : </b>Making a DNNs robust with as much as information in DNNs, i.e. neuron, weight..</p>
-
-<b>Key words : </b>coverage-guided testing(CGT), Neuron Coverage, testing criteria, white-box testing
+<h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><b>My Latest Posts</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /></h2>
 <!-- 
 Section 3
 -->
 
-<h3>My latest posts</h3>
 <!-- 
 Section 4
 -->
@@ -66,10 +61,6 @@ Section 4
 <!-- 
 Section 4
 -->
-
-
-- - -
-
 <!-- 
 Section 5
 -->
@@ -81,9 +72,6 @@ Section 5
 --><!-- 
 Section 6
 -->
-Experience
-
-💻 AI Intern Researcher in Data Science and Artificial Intelligence Lab (DSAIL)
 
 <!-- 
 Section 6
