@@ -10,7 +10,7 @@ for idx, feed in enumerate(rss_feed['entries']) :
     if idx > MAX_POST_NUM :
         break
     feed_date = feed['published_parsed']
-    post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+    post_list += f"- [{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
 
 
 readme_text = ""

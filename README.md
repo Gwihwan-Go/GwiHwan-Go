@@ -6,7 +6,9 @@ Section 1
 
 <p>Welcome to my page! </br> I'm Gwihwan Go, a AI engineer <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" width="20"/>, a researcher <img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Research-neural-others-pike-picture.png" width="20"/>, and a reader <img src="https://img.icons8.com/fluency/48/000000/book-shelf.png" width="20"/>. 
 
-I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="20" /> <b>Seoul, South of Korea</b>, currently attening on  <b>  </b><img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" width="160" height="35" align="middle"/> <b>Sungkyunkwan University </b>. </p>
+I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="20" /> <b>Seoul, South of Korea</b>, currently attening on  <b>  </b><img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" width="160" height="35" align="middle"/> <b>Sungkyunkwan University </b>. 
+
+I'm interested with <strong><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />White Box DNN Testing(Coverage-Guided Testing)<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /></strong></p>
 <!-- 
 Section 1
 -->
@@ -42,7 +44,6 @@ Section 2
 <!-- 
 Section 3
 -->
-<h3>I'm interested with <br>White Box DNN Testing(CGT)</br></h3>
 
 <h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><b>My Latest Posts</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /></h2>
 <!-- 
@@ -52,12 +53,12 @@ Section 3
 <!-- 
 Section 4
 -->
-[2022/6/30 - Is Neuron Coverage Effective? (Final) - Interactions do matter.](https://blog.naver.com/ie1914/222794767874) <br>
-[2022/6/27 - 웹 업무 자동화하기 Selenium_Python (2) url접속, 로그인](https://blog.naver.com/ie1914/222791290172) <br>
-[2022/6/27 - 웹 업무 자동화하기 Selenium_Python (1) 해결해야할 문제 정의](https://blog.naver.com/ie1914/222791220400) <br>
-[2022/6/27 - 내가 블로그를 하는 이유.](https://blog.naver.com/ie1914/222791129440) <br>
-[2022/6/23 - Is Neuron Coverage effective?(2) The recent study about Neuran Coverage](https://blog.naver.com/ie1914/222786136149) <br>
-[2022/6/23 - Is Neuron Coverage effective?(1) Correlations btw DNN Coverage Criteria & model quality](https://blog.naver.com/ie1914/222785785205) <br>
+- [2022/6/30 - Is Neuron Coverage Effective? (Final) - Interactions do matter.](https://blog.naver.com/ie1914/222794767874) <br>
+- [2022/6/27 - 웹 업무 자동화하기 Selenium_Python (2) url접속, 로그인](https://blog.naver.com/ie1914/222791290172) <br>
+- [2022/6/27 - 웹 업무 자동화하기 Selenium_Python (1) 해결해야할 문제 정의](https://blog.naver.com/ie1914/222791220400) <br>
+- [2022/6/27 - 내가 블로그를 하는 이유.](https://blog.naver.com/ie1914/222791129440) <br>
+- [2022/6/23 - Is Neuron Coverage effective?(2) The recent study about Neuran Coverage](https://blog.naver.com/ie1914/222786136149) <br>
+- [2022/6/23 - Is Neuron Coverage effective?(1) Correlations btw DNN Coverage Criteria & model quality](https://blog.naver.com/ie1914/222785785205) <br>
 <!-- 
 Section 4
 -->
