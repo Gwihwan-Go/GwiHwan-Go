@@ -52,6 +52,8 @@ Section 3
 <!-- 
 Section 3
 -->
+
+<h3>My latest posts</h3>
 <!-- 
 Section 4
 -->
@@ -64,6 +66,10 @@ Section 4
 <!-- 
 Section 4
 -->
+
+
+- - -
+
 <!-- 
 Section 5
 -->
