@@ -26,3 +26,4 @@ down_text = ''.join(readme_list[down_bound-1:])
 readme_text = f"{upper_text}{post_list}{down_text}"
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
+f.close()
