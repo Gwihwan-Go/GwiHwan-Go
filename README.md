@@ -44,10 +44,16 @@ Section 2
 <!-- 
 Section 3
 -->
+<!-- 
+Section 3
+-->
+<!-- 
+Section 4 header
+-->
 
 <h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><b>My Latest Posts</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /></h2>
 <!-- 
-Section 3
+Section 4 header
 -->
 
 <!-- 
@@ -63,30 +69,11 @@ Section 4
 Section 4
 -->
 <!-- 
-Section 5
+Footer
 -->
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Gwihwan-Go" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Gwihwan_Go" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%EA%B7%80%ED%99%98-%EA%B3%A0-9687b323a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://blog.naver.com/ie1914" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1sNg_ePXtgP6i-FMQwqpyuGV_v5PLMqUx" width="120" height="28"/></a>
 </p>
-<!-- 
-Section 5
---><!-- 
-Section 6
--->
-
-<!-- 
-Section 6
--->
-<!-- 
-Footer
--->
-
-------------
-
-<p align="center">This <i>README</i> file is built based on <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">HERE</a>
-</p>
-</br>Last refresh: Saturday, 1 Jun, 00:00 GMT +9<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> 
 <!-- 
 Footer
 -->
