@@ -4,7 +4,7 @@
 import feedparser
 
 MAX_POST_NUM=5
-blog_rss = "https://rss.blog.naver.com/ie1914"
+blog_rss = "https://rss.blog.naver.com/ie1914" ##rss adress of blog
 rss_feed = feedparser.parse(blog_rss)
 
 post_list = ""
@@ -20,8 +20,8 @@ readme_text = ""
 with open("README.md", 'r', encoding='utf-8') as f:
     readme_list = f.readlines()
 f.close()
-upper_bound = readme_list.index('Section 4\n')
-down_bound = len(readme_list) - readme_list[::-1].index('Section 4\n')-1
+upper_bound = readme_list.index('Section 4\n') ##upper bound before Section4
+down_bound = len(readme_list) - readme_list[::-1].index('Section 4\n')-1 ##down bound before Section4
 
 upper_text = ''.join(readme_list[:upper_bound+2])
 down_text = ''.join(readme_list[down_bound-1:])
@@ -29,3 +29,4 @@ down_text = ''.join(readme_list[down_bound-1:])
 readme_text = f"{upper_text}{post_list}{down_text}"
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
+f.close()
