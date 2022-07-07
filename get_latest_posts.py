@@ -26,7 +26,7 @@ rss_feed = feedparser.parse(blog_rss)
 post_list = ""
 
 for idx, feed in enumerate(rss_feed['entries']) :
-    if idx > MAX_POST_NUM :
+    if idx > MAX_POST_NUM-1 :
         break
     feed_date = feed['published_parsed']
     post_list += f"- [{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"

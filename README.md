@@ -70,7 +70,6 @@ Section 4
 - [2022/7/7 - 토플 Day1 - 리스닝 : 주제/의도 파악](https://blog.naver.com/ie1914/222803565359) <br>
 - [2022/7/5 - 토플 정식 시작 - 첫 정식 시험 + 플랜 짜기](https://blog.naver.com/ie1914/222801723643) <br>
 - [2022/6/30 - Is Neuron Coverage Effective? (Final) - Interactions do matter.](https://blog.naver.com/ie1914/222794767874) <br>
-- [2022/6/27 - 웹 업무 자동화하기 Selenium_Python (2) url접속, 로그인](https://blog.naver.com/ie1914/222791290172) <br>
 <!-- 
 Section 4
 -->
