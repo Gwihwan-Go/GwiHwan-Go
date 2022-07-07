@@ -23,9 +23,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install feedparser
-    - name: Run Update Python Script
+    - name: Parse my latest naver blog posts
       run: |
-        python get_latest_posts.py
+        python get_latest_posts.py --where=naver --max=3
+    - name: Parse my latest velog blog posts
+      run: |
+        python get_latest_posts.py --where=velog --max=5
     - name: Update README.md file
       run: |
         {
