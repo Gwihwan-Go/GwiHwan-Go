@@ -59,8 +59,8 @@ Section 3
 <!-- 
 Section 4 header
 -->
+<h3><b>My Daily Life Posts</b></h3>
 
-<h2><b>My Daily Life Posts</b></h2>
 <!-- 
 Section 4 header
 -->
