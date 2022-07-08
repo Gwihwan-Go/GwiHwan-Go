@@ -52,6 +52,7 @@ Section 3 header
 <!-- 
 Section 3
 -->
+- [2022/7/8 - OneNote 와 Python 을 연결해보자 (1) Connet my OneNote with Python](https://velog.io/@return_go/OneNote-%EC%99%80-Python-%EC%9D%84-%EC%97%B0%EA%B2%B0%ED%95%B4%EB%B3%B4%EC%9E%90-1-Connet-my-OneNote-with-Python) <br>
 - [2022/7/7 - Tech 블로그 시작](https://velog.io/@return_go/Tech-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91) <br>
 <!-- 
 Section 3
