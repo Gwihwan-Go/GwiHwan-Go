@@ -8,7 +8,7 @@ Section 1
 
 I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="20" /> <b>Seoul, South of Korea</b>, currently attening on  <b>  </b><img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" width="160" height="35" align="middle"/> <b>Sungkyunkwan University </b>. 
 
-I'm interested with <strong><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />White Box DNN Testing(Coverage-Guided Testing)<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /></strong></p>
+I'm interested with <strong><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><u>White Box DNN Testing(Coverage-Guided Testing)</u><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /></strong></p>
 <!-- 
 Section 1
 -->
