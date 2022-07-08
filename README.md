@@ -69,7 +69,7 @@ Section 4 header
 <!-- 
 Section 4
 -->
-- [2022/7/8 - 토플 Day2 - 라이팅 : 요약 문제 파악 및 전략 수립](https://blog.naver.com/ie1914/222804572764) <br>
+- [2022/7/8 - 토플 Day2-3 - 라이팅 : 요약 문제 파악 및 전략 수립](https://blog.naver.com/ie1914/222804572764) <br>
 - [2022/7/7 - 토플 Day1 - 리스닝 : 주제/의도 파악](https://blog.naver.com/ie1914/222803565359) <br>
 - [2022/7/5 - 토플 정식 시작 - 첫 정식 시험 + 플랜 짜기](https://blog.naver.com/ie1914/222801723643) <br>
 <!-- 
