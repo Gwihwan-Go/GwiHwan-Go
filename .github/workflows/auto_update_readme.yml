@@ -29,6 +29,9 @@ jobs:
     - name: Parse my latest velog blog posts
       run: |
         python get_latest_posts.py --where=velog --max=5
+    - name: check whether I updated my github
+      run: |
+        python check_gist.py
     - name: Update README.md file
       run: |
         {
