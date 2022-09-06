@@ -84,11 +84,7 @@ Section 5
 <!-- 
 Footer
 -->
-<<<<<<< HEAD
-Last updated : Monday, 05 Sep, 08:02 KST | [project](https://api.github.com/gists/eb5d0abf02532775199f267397dc1b3d) 
-=======
 Last updated : Sunday, 04 Sep, 00:01 KST | [project](https://api.github.com/gists/eb5d0abf02532775199f267397dc1b3d) 
->>>>>>> 7411d720002838061e84011bca2fa7bf146f7eb7
 <!-- 
 Footer
 -->
