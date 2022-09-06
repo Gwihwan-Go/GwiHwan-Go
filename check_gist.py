@@ -41,7 +41,7 @@ def unify_time_format(time_info, location='Asia/Seoul') :
     currdate = datetime.datetime.strptime(time_info, '%Y-%m-%dT%H:%M:%SZ')
     currdate=currdate.replace(tzinfo=timezone(location))
 
-    return currdate.strftime("%A, %d %b, %H:%M %Z")
+    return currdate.strftime("%A, %d %b, %H:%M")
 
 def last_updated_time(script, index_pars) :
 
@@ -52,9 +52,9 @@ def last_updated_time(script, index_pars) :
 
     upper_list, down_list = return_upper_down_text(index_pars, script)
     target = [i for i in readme_list if ((i not in upper_list) and (i not in down_list))]
-    time_info = target[0].split('|')[0]
+    time_info = target[0].split('|')[0].strip()
 
-    currdate = datetime.datetime.strptime(time_info, 'Last updated : %A, %d %b, %H:%M %Z ')
+    currdate = datetime.datetime.strptime(time_info, 'Last updated : %A, %d %b, %H:%M KST')
     currdate = currdate.replace(year = 2022)
     
     return currdate
@@ -82,7 +82,7 @@ def update_script(load_path, save_path, index_pars) :
 
     time_info = unify_time_format(get_created_at(gist_id))
     url_markdown = f"[project]({get_url(gist_id)})"
-    target_text = f"Last updated : {time_info} | {url_markdown} \n"
+    target_text = f"Last updated : {time_info} KST | {url_markdown} \n"
     readme_text = f"{upper_text}{target_text}{down_text}"
 
     with open(save_path, 'w', encoding='utf-8') as f:
