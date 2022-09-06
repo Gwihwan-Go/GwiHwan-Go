@@ -82,7 +82,7 @@ def update_script(load_path, save_path, index_pars) :
     upper_text, down_text = "".join(upper_list), "".join(down_list)
 
     time_info = unify_time_format(get_created_at(gist_id))
-    url_markdown = f"[project]({get_url(gist_id)})"
+    url_markdown = f"[Script Link]({get_url(gist_id)})"
     target_text = f"Last updated : {time_info} KST | {url_markdown} \n"
     readme_text = f"{upper_text}{target_text}{down_text}"
 
@@ -93,13 +93,16 @@ def update_script(load_path, save_path, index_pars) :
     print(target_text)
 
 if __name__ == "__main__" :
+    ## Need to unify the datetime object
+    ## Need to implement timezone info
     load_path = "README.md"
     save_path = "README.md"
 
     section_to_write = 'Footer\n'
     former = last_updated_time(load_path, section_to_write)
     new = get_created_at(gist_id)
-
+    
     if former != new :
         update_script(load_path, save_path, section_to_write)
-
+    else :
+        print("No updated happened")
