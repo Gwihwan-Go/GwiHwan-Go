@@ -1,0 +1,8 @@
+click
+flask
+msal
+pyyaml
+selenium
+bs4
+gistyc
+feedparser
