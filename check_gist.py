@@ -88,6 +88,9 @@ def update_script(load_path, save_path, index_pars) :
 
     with open(save_path, 'w', encoding='utf-8') as f:
         f.write(readme_text)
+    
+    print("updated")
+    print(target_text)
 
 if __name__ == "__main__" :
     load_path = "README.md"
