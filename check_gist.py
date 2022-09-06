@@ -29,16 +29,18 @@ def get_url(gist_id):
 
     return content
 
-def unify_time_format(time_info) :
+def unify_time_format(time_info, location='Asia/Seoul') :
     """
     input time format : 2022-09-04T00:01:07Z
     output time format : Sunday, 04 Sep, 09:01 KST
     
     """
     import datetime
+    from pytz import timezone
 
     currdate = datetime.datetime.strptime(time_info, '%Y-%m-%dT%H:%M:%SZ')
-    
+    currdate=currdate.replace(tzinfo=timezone(location))
+
     return currdate.strftime("%A, %d %b, %H:%M %Z")
 
 def last_updated_time(script, index_pars) :
