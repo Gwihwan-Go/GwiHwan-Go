@@ -16,11 +16,16 @@ def load_gists(gist_id):
 
 def get_created_at(gist_id):
     """import from Gist"""
+    import datetime
+
     files_json=load_gists(gist_id)
     content = files_json['updated_at']
+    currdate = datetime.datetime.strptime(content, '%Y-%m-%dT%H:%M:%SZ')
+    currdate = currdate.replace(hour=currdate.hour+9)
+    currdate = currdate.replace(second=0)
     # print(content.items())
 
-    return content
+    return currdate
 
 def get_url(gist_id):
     """import from Gist"""
@@ -32,17 +37,16 @@ def get_url(gist_id):
 
 def unify_time_format(time_info, location='Asia/Seoul') :
     """
-    input time format : 2022-09-04T00:01:07Z
+    input time format : datetime module
     output time format : Sunday, 04 Sep, 09:01 KST
     
     """
     import datetime
     from pytz import timezone
 
-    currdate = datetime.datetime.strptime(time_info, '%Y-%m-%dT%H:%M:%SZ')
-    currdate=currdate.replace(tzinfo=timezone(location))
+    time_info=time_info.replace(tzinfo=timezone(location))
 
-    return currdate.strftime("%A, %d %b, %H:%M")
+    return time_info.strftime("%A, %d %b, %H:%M")
 
 def last_updated_time(script, index_pars) :
 
@@ -101,7 +105,7 @@ if __name__ == "__main__" :
     section_to_write = 'Footer\n'
     former = last_updated_time(load_path, section_to_write)
     new = get_created_at(gist_id)
-    
+    print(former, new)
     if former != new :
         update_script(load_path, save_path, section_to_write)
     else :
