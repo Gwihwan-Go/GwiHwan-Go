@@ -87,13 +87,21 @@ def return_upper_down_text(index_pars, file_name) :
     down_bound = readme_list[bounds[1]-1:]
     return upper_bound, down_bound
 
+def refine_url(url) :
+
+    adress = "https://gist.github.com/GwiHwan-Go"
+    git_address = '/'.split(url)[-1]
+    return f"{adress}/{git_address}"
+
 def update_script(load_path, save_path, index_pars) :
 
     upper_list, down_list = return_upper_down_text(index_pars, load_path)
     upper_text, down_text = "".join(upper_list), "".join(down_list)
 
     time_info = unify_time_format(get_created_at(gist_id))
-    url_markdown = f"[Script Link]({get_url(gist_id)})"
+    raw_url = get_url(gist_id)
+
+    url_markdown = f"[Script Link]({refine_url(raw_url)})"
     target_text = f"Last updated : {time_info} KST | {url_markdown} \n"
     readme_text = f"{upper_text}{target_text}{down_text}"
 
