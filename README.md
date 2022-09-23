@@ -84,7 +84,7 @@ Section 5
 <!-- 
 Footer
 -->
-Last updated : Wednesday, 21 Sep, 17:35 KST | [Script Link](https://api.github.com/gists/eb5d0abf02532775199f267397dc1b3d) 
+Last updated : Friday, 23 Sep, 14:42 KST | [Script Link](https://api.github.com/gists/eb5d0abf02532775199f267397dc1b3d) 
 <!-- 
 Footer
 -->
