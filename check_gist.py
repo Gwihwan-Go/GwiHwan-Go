@@ -120,7 +120,7 @@ if __name__ == "__main__" :
     section_to_write = 'Footer\n'
     former = last_updated_time(load_path, section_to_write)
     new = get_created_at(gist_id)
-    print(former, new)
+    print(f"prev : {former}, new : {new}")
     if former != new :
         update_script(load_path, save_path, section_to_write)
     else :
