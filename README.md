@@ -45,9 +45,9 @@ Section 4 header
 <!-- 
 Section 4
 -->
+- [2022/10/13 - 한 달  공부 - 토플  100점 넘긴 후기](https://blog.naver.com/ie1914/222898983798) <br>
 - [2022/7/31 - 할 일에서 스트레스 덜어내기](https://blog.naver.com/ie1914/222835967152) <br>
 - [2022/7/8 - 토플 Day 3 - 라이팅 & 리딩](https://blog.naver.com/ie1914/222805099378) <br>
-- [2022/7/8 - 토플 Day2-3 - 라이팅 : 요약 문제 파악 및 전략 수립](https://blog.naver.com/ie1914/222804572764) <br>
 <!-- 
 Section 4
 -->
@@ -84,7 +84,7 @@ Section 5
 <!-- 
 Footer
 -->
-Last updated : Monday, 10 Oct, 02:48 KST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
+Last updated : Thursday, 13 Oct, 10:30 KST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
 <!-- 
 Footer
 -->
