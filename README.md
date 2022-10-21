@@ -45,9 +45,9 @@ Section 4 header
 <!-- 
 Section 4
 -->
+- [2022/10/21 - 파이썬 초보들이 공부할만한 자료](https://blog.naver.com/ie1914/222906452981) <br>
 - [2022/10/13 - 한 달  공부 - 토플  100점 넘긴 후기](https://blog.naver.com/ie1914/222898983798) <br>
 - [2022/7/31 - 할 일에서 스트레스 덜어내기](https://blog.naver.com/ie1914/222835967152) <br>
-- [2022/7/8 - 토플 Day 3 - 라이팅 & 리딩](https://blog.naver.com/ie1914/222805099378) <br>
 <!-- 
 Section 4
 -->
