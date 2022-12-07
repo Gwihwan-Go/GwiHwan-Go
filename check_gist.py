@@ -22,12 +22,11 @@ def get_created_at(gist_id):
     content = files_json['updated_at']
     currdate = datetime.datetime.strptime(content, '%Y-%m-%dT%H:%M:%SZ')
 
-    
     if currdate.hour+9 > 24:
         kst_hour = currdate.hour+9-24
     else :
         kst_hour = currdate.hour+9
-    
+    # print('ksthour', kst_hour)
     currdate = currdate.replace(hour=kst_hour)
     currdate = currdate.replace(second=0)
     # print(content.items())
@@ -120,8 +119,9 @@ if __name__ == "__main__" :
     section_to_write = 'Footer\n'
     former = last_updated_time(load_path, section_to_write)
     new = get_created_at(gist_id)
+    print(new)
     print(f"prev : {former}, new : {new}")
-    if former != new :
-        update_script(load_path, save_path, section_to_write)
-    else :
-        print("No updated happened")
+    # if former != new :
+    #     update_script(load_path, save_path, section_to_write)
+    # else :
+    #     print("No updated happened")
