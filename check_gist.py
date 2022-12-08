@@ -20,13 +20,17 @@ def get_created_at(gist_id):
 
     files_json=load_gists(gist_id)
     content = files_json['updated_at']
+
+    #get KST cur time
     currdate = datetime.datetime.strptime(content, '%Y-%m-%dT%H:%M:%SZ')
 
     if currdate.hour+9 > 24:
         kst_hour = currdate.hour+9-24
     else :
         kst_hour = currdate.hour+9
-    # print('ksthour', kst_hour)
+    # while kst_hour < 24 :
+
+    print('ksthour', kst_hour)
     currdate = currdate.replace(hour=kst_hour)
     currdate = currdate.replace(second=0)
     # print(content.items())
