@@ -85,7 +85,7 @@ Section 5
 <!-- 
 Footer
 -->
-Last updated : Thursday, 09 Mar, 00:17 KST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
+Last updated : Friday, 10 Mar, 00:16 KST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
 <!-- 
 Footer
 -->
