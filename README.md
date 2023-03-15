@@ -4,9 +4,7 @@ Section 1
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gwihwan Go, an AI engineer <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" width="20"/>. 
-
-I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="20" /> <b>Seoul, South of Korea</b>, currently a first-year Ph.D student at  <b>  </b><img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" width="160" height="35" align="middle"/> <b>Tsinghua University </b>, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the Software System Security Assurance Group - [WingTecher Lab](http://www.wingtecher.com/homeen). I received my B.S. degree in Software from Sungkyunkwan University, Korea, in Feb. 2023. My research interest is in the area of <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />utilizing DL, and testing DL systems<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />. I also enjoy piano, badminton, football, and basketball.</p>
+<p> Welcome to my page! </br> I'm Gwihwan Go, an AI engineer <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" width="20"/>. I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="20" /> <b>Seoul, South of Korea</b>, currently a first-year Ph.D student at  <b>  </b><img src="assets/THU_logo.svg" width="160" height="35" align="middle"/> <b>Tsinghua University </b>, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the Software System Security Assurance Group - [WingTecher Lab](http://www.wingtecher.com/homeen). I received my B.S. degree in Software from Sungkyunkwan University, Korea, in Feb. 2023. My research interest is in the area of 🔥 utilizing DL, and testing DL systems🔥. I also enjoy piano, badminton, football, and basketball. </p>
 
 <!-- 
 Section 1
@@ -17,7 +15,7 @@ Section 1
 Section 3 header
 -->
 
-<h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><b> My Latest Posts</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /></h2>
+<h2><b> 🔥 My Latest Posts 🔥 </b></h2>
 <!-- 
 Section 3 header
 -->
@@ -74,9 +72,7 @@ Section 2
 Section 2
 -->
 <h3>Where to find me</h3>
-<p><a href="https://github.com/Gwihwan-Go" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Gwihwan_Go" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%EA%B7%80%ED%99%98-%EA%B3%A0-9687b323a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://blog.naver.com/ie1914" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1sNg_ePXtgP6i-FMQwqpyuGV_v5PLMqUx" width="120" height="28"/></a>
- <a href="https://velog.io/@return_go" target="_blank"><img src="https://drive.google.com/uc?export=view&id=19f0ZaXBiA72-af7YW5sE84k6DLGbfnaP" width="120" height="28"/></a>
-</p>
+<p><a href="https://github.com/Gwihwan-Go" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Gwihwan_Go" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%EA%B7%80%ED%99%98-%EA%B3%A0-9687b323a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- 
 Section 5
 -->
