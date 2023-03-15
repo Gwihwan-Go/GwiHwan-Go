@@ -4,11 +4,10 @@ Section 1
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gwihwan Go, a AI engineer <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" width="20"/>, a researcher <img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-Research-neural-others-pike-picture.png" width="20"/>, and a reader <img src="https://img.icons8.com/fluency/48/000000/book-shelf.png" width="20"/>. 
+<p>Welcome to my page! </br> I'm Gwihwan Go, an AI engineer <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-data-science-flat-flat-juicy-fish.png" width="20"/>. 
 
-I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="20" /> <b>Seoul, South of Korea</b>, currently attening on  <b>  </b><img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" width="160" height="35" align="middle"/> <b>Sungkyunkwan University </b>. 
+I'm from <img src="https://img.icons8.com/office/40/000000/south-korea.png" width="20" /> <b>Seoul, South of Korea</b>, currently a first-year Ph.D student at  <b>  </b><img src="https://user-images.githubusercontent.com/83144588/170834605-a93b91ef-8e9b-4065-8249-0028c431d2a5.png" width="160" height="35" align="middle"/> <b>Tsinghua University </b>, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the Software System Security Assurance Group - [WingTecher Lab](http://www.wingtecher.com/homeen). I received my B.S. degree in Software from Sungkyunkwan University, Korea, in Feb. 2023. My research interest is in the area of <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />utilizing DL, and testing DL systems<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />. I also enjoy piano, badminton, football, and basketball.</p>
 
-I'm interested with <strong><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /><U>White Box DNN Testing(Coverage-Guided Testing), especially in NLP field.</U><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /></strong></p>
 <!-- 
 Section 1
 -->
