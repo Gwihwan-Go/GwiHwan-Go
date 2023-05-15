@@ -23,11 +23,6 @@ Section 3 header
 <!-- 
 Section 3
 -->
-- [2022/11/26 - Colab에서 Local 환경 접근하기](https://velog.io/@return_go/Colab%EC%97%90%EC%84%9C-Local-%ED%99%98%EA%B2%BD-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0) <br>
-- [2022/11/26 - 5초면 끝나는 Colab에서 Google Drive에 파일 저장하기(Mount 보다 한 걸음 더 나가기)](https://velog.io/@return_go/5%EC%B4%88%EB%A9%B4-%EB%81%9D%EB%82%98%EB%8A%94-Colab%EC%97%90%EC%84%9C-Google-Drive%EC%97%90-%ED%8C%8C%EC%9D%BC-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0Mount-%EB%B3%B4%EB%8B%A4-%ED%95%9C-%EA%B1%B8%EC%9D%8C-%EB%8D%94-%EB%82%98%EA%B0%80%EA%B8%B0) <br>
-- [2022/11/26 - 1초면 끝나는 colab 런타임 늘리기](https://velog.io/@return_go/1%EC%B4%88%EB%A9%B4-%EB%81%9D%EB%82%98%EB%8A%94-colab-%EB%9F%B0%ED%83%80%EC%9E%84-%EB%8A%98%EB%A6%AC%EA%B8%B0) <br>
-- [2022/7/12 - OneNote 와 Python 을 연결해보자 Connet my OneNote with Python(1) MS 계정 설정](https://velog.io/@return_go/OneNote-%EC%99%80-Python-%EC%9D%84-%EC%97%B0%EA%B2%B0%ED%95%B4%EB%B3%B4%EC%9E%90-Connet-my-OneNote-with-Python-1-MS-%EA%B3%84%EC%A0%95-%EC%84%A4%EC%A0%95) <br>
-- [2022/7/12 - OneNote 와 Python 을 연결해보자 Connet my OneNote with Python(0) Specify Requirements](https://velog.io/@return_go/OneNote-%EC%99%80-Python-%EC%9D%84-%EC%97%B0%EA%B2%B0%ED%95%B4%EB%B3%B4%EC%9E%90-Connet-my-OneNote-with-Python-0) <br>
 <!-- 
 Section 3
 -->
@@ -80,7 +75,7 @@ Section 5
 <!-- 
 Footer
 -->
-Last updated : Sunday, 14 May, 05:04 KST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
+Last updated : Monday, 15 May, 05:04 KST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
 <!-- 
 Footer
 -->
