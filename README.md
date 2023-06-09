@@ -80,7 +80,7 @@ Section 5
 <!-- 
 Footer
 -->
-Last updated : Friday, 09 Jun, 14:03 KST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
+Last updated : Friday, 09 Jun, 05:04 KST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
 <!-- 
 Footer
 -->
