@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # check
-gist_id = "eb5d0abf02532775199f267397dc1b3d"
+gist_id = "eb5d0abf02532775199f267397dc1b3d" # can I open this?
 
 def load_gists(gist_id):
     """translate Gist ID to URL"""
