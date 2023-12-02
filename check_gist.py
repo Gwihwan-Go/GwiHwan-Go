@@ -125,8 +125,8 @@ if __name__ == "__main__" :
     # former = last_updated_time(load_path, section_to_write)
     new = get_created_at(gist_id)
     # print(new)
-    print(f"prev : {former}, new : {new}")
-    if former != new :
-        update_script(load_path, save_path, section_to_write)
-    else :
-        print("No updated happened")
+    # print(f"prev : {former}, new : {new}")
+    # if former != new :
+    update_script(load_path, save_path, section_to_write)
+    # else :
+    #     print("No updated happened")
