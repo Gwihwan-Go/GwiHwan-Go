@@ -127,6 +127,6 @@ if __name__ == "__main__" :
     print(new)
     print(f"prev : {former}, new : {new}")
     if former != new :
-    update_script(load_path, save_path, section_to_write)
+        update_script(load_path, save_path, section_to_write)
     else :
         print("No updated happened")
