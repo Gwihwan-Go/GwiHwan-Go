@@ -43,7 +43,7 @@
 # down_text = ''.join(readme_list[down_bound-1:])
 
 # readme_text = f"{upper_text}{post_list}{down_text}"
-readme_txt = """##### 🔥 News <br><br>
+readme_text = """##### 🔥 News <br><br>
 
   - 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
 
