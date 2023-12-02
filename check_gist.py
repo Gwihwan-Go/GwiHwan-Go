@@ -84,8 +84,8 @@ def return_upper_down_text(index_pars, file_name) :
         readme_list = f.readlines()
     f.close()
     bounds = [i for i, x in enumerate(readme_list) if x == index_pars]
-    # if len(bounds) !=2 :
-    #     raise Exception(f"the number of bounds should be 2, here-{len(bounds)}")
+    if len(bounds) !=2 :
+        raise Exception(f"the number of bounds should be 2, here-{len(bounds)}")
     print(readme_list)
     upper_bound = readme_list[:bounds[0]+1]
     down_bound = readme_list[bounds[1]-1:]
@@ -122,11 +122,11 @@ if __name__ == "__main__" :
     save_path = "README.md"
 
     section_to_write = 'Footer\n'
-    # former = last_updated_time(load_path, section_to_write)
+    former = last_updated_time(load_path, section_to_write)
     new = get_created_at(gist_id)
-    # print(new)
-    # print(f"prev : {former}, new : {new}")
-    # if former != new :
+    print(new)
+    print(f"prev : {former}, new : {new}")
+        if former != new :
     update_script(load_path, save_path, section_to_write)
-    # else :
-    #     print("No updated happened")
+    else :
+        print("No updated happened")
