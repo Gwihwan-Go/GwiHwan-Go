@@ -122,7 +122,7 @@ if __name__ == "__main__" :
     save_path = "README.md"
 
     section_to_write = 'Footer\n'
-    former = last_updated_time(load_path, section_to_write)
+    # former = last_updated_time(load_path, section_to_write)
     new = get_created_at(gist_id)
     # print(new)
     print(f"prev : {former}, new : {new}")
