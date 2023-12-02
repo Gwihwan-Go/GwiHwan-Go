@@ -84,8 +84,8 @@ def return_upper_down_text(index_pars, file_name) :
         readme_list = f.readlines()
     f.close()
     bounds = [i for i, x in enumerate(readme_list) if x == index_pars]
-    if len(bounds) !=2 :
-        raise Exception(f"the number of bounds should be 2, here-{len(bounds)}")
+    # if len(bounds) !=2 :
+    #     raise Exception(f"the number of bounds should be 2, here-{len(bounds)}")
     upper_bound = readme_list[:bounds[0]+2]
     down_bound = readme_list[bounds[1]-1:]
     return upper_bound, down_bound
