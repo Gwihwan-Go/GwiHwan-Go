@@ -1,5 +1,5 @@
-## This code is made for github actions
-## It is responsible for parsing blog's latest posts and writing in README.md file.
+# This code is made for github actions
+# It is responsible for parsing blog's latest posts and writing in README.md file.
 import argparse
 import feedparser
 

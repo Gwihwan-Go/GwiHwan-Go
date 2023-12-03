@@ -22,16 +22,10 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Parse my latest naver blog posts
+    - name: Auto update(News + gist updated check)
       run: |
-        python get_latest_posts.py --where=naver --max=3
-    - name: Parse my latest velog blog posts
-      run: |
-        python get_latest_posts.py --where=velog --max=5
-    - name: check whether I updated my github
-      run: |
-        python check_gist.py
-    - name: Update README.md file
+        python main.py
+    - name: commit README.md file
       run: |
         {
         git pull
