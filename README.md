@@ -39,10 +39,10 @@ Last updated : Sunday, 03 Dec, 14:10 CST | [Script Link](https://gist.github.com
 Section 4 header
 -->
 
-<!-- 
+<!--
 Footer
-Last updated : Sunday, 03 Dec, 14:10 KST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
-<!-- 
+Last updated : Sunday, 03 Dec, 14:10 KST | [Script Link](https://gist.github.com/GwiHwan-Go//)
+<!--
 Footer
 -->
 <!--- [2022/10/21 - 파이썬 초보들이 공부할만한 자료](https://blog.naver.com/ie1914/222906452981) <br>
