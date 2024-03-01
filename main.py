@@ -50,6 +50,7 @@ if __name__ == "__main__" :
         if need_update :
             print(f"update {section_name}")
             new_contents = get_new_contents(section_name)
+            print(f"new content :\n {new_contents")
             current_readme = revise_section(new_contents, current_readme, section_name)
     
     save_readme(current_readme, readmd_file_name)
