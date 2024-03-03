@@ -30,7 +30,7 @@
 <a href="https://www.instagram.com/returnn_go" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="https://gwihwan-go.github.io/" target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%EA%B7%80%ED%99%98-%EA%B3%A0-9687b323a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--Footer-->
-Last updated : Sunday, 03 Mar, 14:09 CST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
+Last updated : Sunday, 03 Mar, 05:10 CST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
 
 <!--Section 4 header-->
 
