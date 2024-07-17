@@ -8,6 +8,7 @@
 <!--Blog_Post-->
 
 - 2024.07 : DeepConstr is accepted to ISSTA'24. See you in September in Vienna!
+- 2024.07 : PolyJuice is accepted to OOPSLA'24.
 - 2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
 - 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
 - 2023.04 : The School of Software's football team, which I am a member of, made it to the top 8 in the whole school!
