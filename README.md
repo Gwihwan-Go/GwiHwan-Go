@@ -7,12 +7,12 @@
 <h2><b> 🔥 My News 🔥 </b></h2>
 <!--Blog_Post-->
 
-- 2024.07 : DeepConstr is accepted to ISSTA'24. See you in September in Vienna!
+- 2024.07 : DeepConstr is accepted to ISSTA'24. Looking forward to seeing you in Vienna, Austria, in September!
 - 2024.07 : PolyJuice is accepted to OOPSLA'24.
 - 2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
 - 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
-- 2023.04 : The School of Software's football team, which I am a member of, made it to the top 8 in the whole school!
 - [2023.03](https://yzbm.tsinghua.edu.cn/publish/s05/s0501/detail/f869fcc1-c215-47a6-b7d9-fa6ec9781738) : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
+- 2022.02 : I acquired my Bachelor's degree in Applied AI from Sungkyunkwan University, Korea
 <!-- - 2022.02 : I acquired my Bachelor's degree in Applied AI from Sungkyunkwan University, Korea -->
 <!--Code_Emblems-->
 <h3>Things I code with</h3>
