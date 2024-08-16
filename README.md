@@ -7,12 +7,12 @@
 <h2><b> 🔥 My News 🔥 </b></h2>
 <!--Blog_Post-->
 
-- 2024.08 : Content-Poisoning is accepted to ASE'24.
-- 2024.07 : PolyJuice and DeepConstr are accepted to OOPSLA'24 and ISSTA'24, respectively. Looking forward to seeing you in Vienna, Austria, in September!
-- 2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
-- 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
-- [2023.03](https://yzbm.tsinghua.edu.cn/publish/s05/s0501/detail/f869fcc1-c215-47a6-b7d9-fa6ec9781738) : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
-- 2022.02 : I acquired my Bachelor's degree in Applied AI from Sungkyunkwan University, Korea
+2024.08 : Content-Poisoning is accepted to ASE'24.
+2024.07 : PolyJuice and DeepConstr are accepted to OOPSLA'24 and ISSTA'24, respectively. Looking forward to seeing you in Vienna, Austria, in September!
+2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
+2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
+[2023.03](https://yzbm.tsinghua.edu.cn/publish/s05/s0501/detail/f869fcc1-c215-47a6-b7d9-fa6ec9781738) : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
+2022.02 : I acquired my Bachelor's degree in Applied AI from Sungkyunkwan University, Korea
 <!-- - 2022.02 : I acquired my Bachelor's degree in Applied AI from Sungkyunkwan University, Korea -->
 <!--Code_Emblems-->
 <h3>Things I code with</h3>
@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/returnn_go" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="https://gwihwan-go.github.io/" target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/%EA%B7%80%ED%99%98-%EA%B3%A0-9687b323a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--Footer-->
-Last updated : Friday, 16 Aug, 14:11 CST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
+Last updated : Friday, 16 Aug, 05:12 CST | [Script Link](https://gist.github.com/GwiHwan-Go//) 
 
 <!--Section 4 header-->
 
