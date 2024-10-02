@@ -37,7 +37,7 @@ def get_News_from_githubio_blogs() :
     full_contents = load_contents(GITHUBIO_RAW_URL)
     news_section = full_contents.split('---')[3]
     parsed_contents = [line.strip() for line in news_section.split('\n') if is_contents_line(line)]
-    return EMPTY_LINE + '\n- '.join(parsed_contents)
+    return EMPTY_LINE +'-' + '\n- '.join(parsed_contents)
 
 def refine_url(url) :
 
