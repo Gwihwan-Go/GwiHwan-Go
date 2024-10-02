@@ -8,15 +8,10 @@
 <!--Blog_Post-->
 
 2024.08 : Content-Poisoning is accepted to ASE'24.
-
 2024.07 : PolyJuice and DeepConstr are accepted to OOPSLA'24 and ISSTA'24, respectively. Looking forward to seeing you in Vienna, Austria, in September!
-
 2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
-
 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
-
 [2023.03](https://yzbm.tsinghua.edu.cn/publish/s05/s0501/detail/f869fcc1-c215-47a6-b7d9-fa6ec9781738) : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
-
 2022.02 : I acquired my Bachelor's degree in Applied AI from Sungkyunkwan University, Korea
 <!-- - 2022.02 : I acquired my Bachelor's degree in Applied AI from Sungkyunkwan University, Korea -->
 <!--Code_Emblems-->
