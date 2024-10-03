@@ -7,7 +7,7 @@
 <h2><b> 🔥 My News 🔥 </b></h2>
 <!--Blog_Post-->
 
--2024.08 : Content-Poisoning is accepted to ASE'24.
+- 2024.08 : Content-Poisoning is accepted to ASE'24.
 - 2024.07 : PolyJuice and DeepConstr are accepted to OOPSLA'24 and ISSTA'24, respectively. Looking forward to seeing you in Vienna, Austria, in September!
 - 2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
 - 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
